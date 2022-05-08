@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanishka Rangana Mananduwa
-- 👀 I’m interested in Software field and Mechatrnoics Engineering.
-- 🌱 I’m currently learning full stack deveopment of software using Python.
+- 👀 I’m interested in Software & Mechatrnoics engineering fields.
+- 🌱 I’m currently learning full stack software deveopment using Python.
 - 💞️ I’m looking to collaborate on new unique projects.
 - 📫 How to reach me ?
 :email: via email: kanishka.rangana@gmail.com
